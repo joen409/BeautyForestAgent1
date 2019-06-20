@@ -15,5 +15,10 @@ namespace BeautyForestAgent
         {
             InitializeComponent();
         }
+
+        private void ContextMenuStrip1_Opening(object sender, CancelEventArgs e)
+        {
+
+        }
     }
 }
